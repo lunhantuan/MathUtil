@@ -36,8 +36,7 @@ public class AdvancedFactorialTest {
                                 {2,2},
                                 {3,6},
                                 {4,24},
-                                {5,120},
-                                {6,720}
+                                {5,120}
                                 };
     }
     // ta can map 2 cot vao 2 bien de lat feed vao ham check factorial
